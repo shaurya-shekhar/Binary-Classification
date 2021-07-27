@@ -1,4 +1,4 @@
-# Binary-Classification-Web-App
+# Binary Classification Web App
 
 - [x] Implemented classification of mushrooms as poisoned or non-poisonous using the Mushroom Data Set from UCI Machine Learning Repository.
 - [x] Used logistic regression, Support Vector Machine, and Random Forest Techniques to achieve the same.
